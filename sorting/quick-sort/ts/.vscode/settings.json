@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "[typescript]": {"editor.tabSize": 2},
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabCompletion": "on",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+  }

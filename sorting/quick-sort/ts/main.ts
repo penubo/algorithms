@@ -1,9 +1,7 @@
-const a = 10 || 20 || 30
+const quicksort = (arr: number[], start: number, end: number): number[] => {
+  if (arr.length === 1) return [1];
+  const newArr = [1, 2];
+  return newArr;
+};
 
-type MyList = number[]
-
-const arr: MyList = []
-
-arr.push(1)
-
-console.log(arr)
+export default quicksort;
